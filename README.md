@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **w93163red/w93163red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working for Bytedance.
+- 🔭 I’m currently working for Bytedance.
+- Working Env: Windows + Virtual Machine (Linux)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&theme=tokyonight&icon_color=6392DF">
 <img src="https://github-profile-trophy.vercel.app/?username=w93163red&theme=onedark">
