@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Bytedance.
+🔭 I’m currently working for Bytedance.
 
 <img  src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&theme=tokyonight&icon_color=6392DF">
 <img src="https://github-profile-trophy.vercel.app/?username=w93163red&theme=onedark">
