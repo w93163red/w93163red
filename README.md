@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working for Bytedance.
-- Working Env: Windows + Debian Testing
+- Working Env: Windows 11 Wslg
 - [Personal Notes](http://w93163red.github.io)
 
 <img src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&theme=tokyonight&icon_color=6392DF">
