@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 - Working Env: Windows 11 + Debian Testing
 - [Personal Notes](http://w93163red.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&theme=tokyonight&icon_color=6392DF">
+<table>
+    <td>
+        <img height=350 src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&icon_color=6392DF" />
+    </td>
+    <td>
+        <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact" />
+    </td>
+</table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=w93163red&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=w93163red" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact">
 
 
