@@ -19,15 +19,8 @@ Here are some ideas to get you started:
 - Working Env: Windows 11 + Debian Testing
 - [Personal Notes](http://w93163red.github.io)
 
-<table style="border: none">
-    <td style="border: none">
-        <img height=350 src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&icon_color=6392DF" />
-    </td>
-    <td "border: none">
-        <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact" />
-    </td>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&icon_color=6392DF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact" />
 <img src="https://github-profile-trophy.vercel.app/?username=w93163red" />
 
 
