@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working @Cloudflare
 - [Personal Notes](http://w93163red.github.io)
-- 以下内容用claude将大部分内容翻译成中文；如果有不通顺的地方，有进行调整
+- 以下内容用claude将大部分内容翻译成中文。有人工介入调整的部分：
   - [Putting the “You” in CPU](https://github.com/w93163red/putting-the-you-in-cpu)
   - [20 parts linker essay](https://lings-notes.gitbook.io/20-part-linker-essay-zhong-wen)
 
