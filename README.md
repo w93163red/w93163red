@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working @Cloudflare
 - [Personal Notes](http://w93163red.github.io)
+- 以下内容用claude将大部分内容翻译成中文；如果有不通顺的地方，有进行调整
+  - [Putting the “You” in CPU](https://github.com/w93163red/putting-the-you-in-cpu)
+  - [20 parts linker essay](https://lings-notes.gitbook.io/20-part-linker-essay-zhong-wen)
 
 <img src="https://github-readme-stats.vercel.app/api?username=w93163red&show_icons=true&icon_color=6392DF" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact" />
