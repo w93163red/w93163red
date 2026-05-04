@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working @Cloudflare
+- 🔭 I’m currently working @Linkedin
 - As I read Chinese more efficiently than English, I am using AI translation tools to create Chinese versions of selected content in my spare time. These translations are posted here, with full attribution to the original authors. Disclaimer: These translations are for personal study and reference only. They may contain errors or inaccuracies. Always refer to the original English content for the most accurate information.
 - 以下内容用claude将大部分内容翻译成中文。有人工介入调整的部分：
   - [Putting the “You” in CPU](https://github.com/w93163red/putting-the-you-in-cpu)
