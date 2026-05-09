@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w93163red&hide=javascript,html,typescript,css&layout=compact" />
 <img src="https://github-profile-trophy.vercel.app/?username=w93163red" />
 
 
